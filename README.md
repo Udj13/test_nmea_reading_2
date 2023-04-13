@@ -2,15 +2,11 @@
 
 test read NMEA via BLE connection
 
-## Getting Started
+This is not the main project 
+Just checks for new versions of android
 
-This project is a starting point for a Flutter application.
+## Go to main 
 
-A few resources to get you started if this is your first Flutter project:
+Link for main project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [BLE NMEA parser](https://github.com/Udj13/test_nmea_readingb)
