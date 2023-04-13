@@ -91,6 +91,8 @@ class DeviceScreen extends StatelessWidget {
                 Text(snapshot.data?.speed?.toStringAsFixed(1) ?? ''),
                 const Text('course', style: TextStyle(color: Colors.grey)),
                 Text(snapshot.data?.course?.toStringAsFixed(0) ?? ''),
+                const Text('update time', style: TextStyle(color: Colors.grey)),
+                Text(DateTime.now().toString().substring(0, 19) ?? ''),
               ],
             ),
           ),
